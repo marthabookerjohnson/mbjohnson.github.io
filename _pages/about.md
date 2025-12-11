@@ -12,7 +12,7 @@ I am a PhD candidate in Linguistics at The Ohio State University, specializing i
 
 My dissertation, titled _Topics in Kihehe Verbal Morphology_, describes the tense-aspect system of Kihehe (Bantu, Tanzania), investigates the erosion of a suffix, and examines how language use attitudes are developing in the area. I am advised by Professor Andrea Sims.
 
-You can find my CV [here](/cv/), and my research publications [here](/publications/).
+You can find my CV [here](/cv/).
 
 Other things I am involved in:
 - compiling a dictionary of Kihehe
